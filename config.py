@@ -3,7 +3,7 @@ API_HASH = "8601f2f24993f6fdbcbac3bb27ceec38"
 BOT_TOKEN = ""
 
 SOURCE_CHAT = "-1003524422686" 
-TARGET_CHAT =  
+TARGET_CHAT = "-1003741021251"
 
 OLD_TAG = "TvShowHub.mp4"
 NEW_TAG = "Hindi_Tv_Verse.mp4"
