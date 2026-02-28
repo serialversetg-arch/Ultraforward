@@ -1,9 +1,9 @@
-API_ID = 1234567 
-API_HASH = "your_api_hash"
-BOT_TOKEN = "your_bot_token"
+API_ID = "26910777" 
+API_HASH = "8601f2f24993f6fdbcbac3bb27ceec38"
+BOT_TOKEN = ""
 
-SOURCE_CHAT = -100xxxxxxxxx 
-TARGET_CHAT = -100xxxxxxxxx 
+SOURCE_CHAT = "-1003524422686" 
+TARGET_CHAT =  
 
 OLD_TAG = "TvShowHub.mp4"
 NEW_TAG = "Hindi_Tv_Verse.mp4"
